@@ -14,3 +14,8 @@ Thanks for viewing this mod via GitHub page!
 ### How to build this?
 - For building, download official psych engine source and paste
 - some this mod components in downloaded source and just build!
+### Where additional files?
+- This is some mod contents for open source build!
+### How to download?
+- If you want to download builded version of this mod,
+- get it here: [GameJolt Link](https://gamejolt.com/games/fnf-but-hard/810829)
