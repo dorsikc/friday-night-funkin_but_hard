@@ -1,1 +1,2 @@
-"# friday-night-funkin_but_hard" 
+# Friday Night Funkin' But Hard
+Thanks for viewing this mod via GitHub page!
