@@ -10,7 +10,7 @@ Thanks for viewing this mod via GitHub page!
 - 1+ Custom week! (0%)
 
 ## Q & A also:
-### ! All song charts are moved in /chart !
+### ! All song charts and instrum. are moved in /chart !
 ### How to build this?
 - For building, download official psych engine source and paste
 - some this mod components in downloaded source and just build!
