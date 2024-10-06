@@ -2,3 +2,5 @@
 - New notes (objects/Note & states/editors/ChartingState)
 - 2+ New mechanics (states/PlayState)
 - Changed menu (states/MainMenuState)
+
+## ! New events placed in /example_mods !
